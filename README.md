@@ -1,0 +1,2 @@
+# premium-disc-grinder-001-disc-grinder-building-surfac
+Tired of chasing flatness with a caliper in one hand and a sticky note in the other? Your disc grinder build deserves a single source of truth — not a pile of scribbles.  This Notion template replaces chaotic workshop notes with a structured studio for building disc grinders and achieving surface flatness. It organizes every measurement, material,
